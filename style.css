@@ -1,0 +1,45 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: aquamarine;
+}
+.nation{
+  font-family: 'Sedgwick Ave Display', cursive;
+  color:aquamarine;
+}
+.bark{
+  font-family: 'Space Mono', monospace;
+}
+.bo{
+  font-family: 'Gruppo', sans-serif;
+}
+.seatgeek{
+  font-family: 'Monoton', cursive;}
+.seatgeeks{
+  font-family: 'Shrikhand', cursive;
+}
+.etsy
+{
+  font-family: 'Julee', cursive;
+}
+.etsys{
+  font-family: 'Mali', cursive;
+}
+.amex{
+  font-family: 'Gaegu', cursive;
+}
+.google{
+  font-family: 'Leckerli One', cursive;
+}
+.googles{
+  font-family: 'Rubik Storm', cursive;
+}
+.su{
+  border-style: dotted;
+}
+h2:hover {
+  background-color:pink;
+}
